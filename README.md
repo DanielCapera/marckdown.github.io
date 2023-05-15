@@ -1,16 +1,3 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400&family=Inconsolata:wght@200&family=Ubuntu:wght@300&display=swap');
-
-  * {
-    background: linear-gradient(white, yellow);
-    font-family: "Dongle", sans-serif;
-    font-family: "Inconsolata", monospace;
-    font-family: "Ubuntu", sans-serif;
-  }
-</style>
-
-<link rel="stylesheet" href="estilos.css">
-
 ## Ejercicio Área Figuras
 
 En su rol de desarrollador de software debe estar en la capacidad de desarrollar un programa que se encargue de encontrar el área de las siguientes figuras geometricas (circulo, cuadrado, triangulo y rectangulo).
