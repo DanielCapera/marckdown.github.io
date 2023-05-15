@@ -27,4 +27,8 @@ Escenario 1: Ingresar la información de la base y la altura y/o solo el radio.
 
 ### Aproximación Diagrama de Flujo:
 
+![](diagrama_flujo.jpg)
 
+### Aproximación Pseudocódigo:
+
+![](pseudocodigo.png)
