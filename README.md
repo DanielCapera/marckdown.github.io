@@ -1,19 +1,26 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400&family=Inconsolata:wght@200&family=Ubuntu:wght@300&display=swap');
+</style>
+
 ## Ejercicio Área Figuras
+
 En su rol de desarrollador de software debe estar en la capacidad de desarrollar un programa que se encargue de encontrar el área de las siguientes figuras geometricas (circulo, cuadrado, triangulo y rectangulo).
 
 ## Análisis del Ejercicio
+
 ### Historia de usuario:
+
 [Jira](https://hoytrabajas.atlassian.net/jira/core/projects/UN/board?selectedIssue=UN-1 "Página de jira")
 
 Área figuras:
-Descripción:
-**Como** un usuario estudiante **quiero** poder sacar el área de las principales figuras geométricas (Circulo, Cuadrado, Triangulo, Rectángulo), **para** mis clases de geometría.
 
- 
+Descripción:
+
+**Como** un usuario estudiante **quiero**  poder sacar el área de las siguientes figuras geométricas y poder agregar a un nuevo estudiante si es el caso (Circulo, Cuadrado, Triangulo, Rectángulo), **para** nuestras clases de geometría.
 
 Escenarios
 
-Escenario 1: Ingresar la información de la base y la altura y/o solo el radio.
+Escenario 1: Ingresar el nombre del estudiante seguido de la información de la base y la altura y/o el radio de la figura.
 
 **Given** que soy un estudiante y que ingreso números positivos para la operación de las figuras geométricas.
 
