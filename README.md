@@ -28,6 +28,12 @@ Escenario 1: Ingresar el nombre del estudiante seguido de la información de la 
 
 ![](aproximacion_caso_uso.png)
 
+Descripción caso de uso:
+
+![](caso_de_uso.jpeg)
+
+
+
 ### Aproximación Diagrama de Flujo:
 
 ![](diagrama_flujo.jpg)
